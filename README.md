@@ -1,2 +1,2 @@
-#Practicing with GitHub
-Fixing the header
+#PracticingGithub
+Trying to get the header right
